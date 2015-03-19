@@ -1,0 +1,13 @@
+{
+    "name": "marceloandrader/void-operation",
+    "description": "Test package for packagist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcelo Andrade",
+            "email": "marcelo.andrade.r@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
